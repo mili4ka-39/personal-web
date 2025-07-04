@@ -19,29 +19,15 @@ The website includes:
 ![Home Page](https://i.ibb.co/PscQ6N2C/home.png)
 
 ### 👤 About Page  
-![About Page](https://ibb.co/BVyQWbHc)
+![About Page](https://i.ibb.co/0jC64Tpm/aboutUs.png)
 
 ### 🌍 Countries Page  
-![Countries Page](https://ibb.co/39mXwMCN)
+![Countries Page](https://i.ibb.co/bM5hx2KB/countries1.png)
 
 ### 🖼️ Gallery Page 
-![Gallery Page](https://ibb.co/Xxv4qQ1b)
+![Gallery Page](https://i.ibb.co/B2SP9pbt/gallery1.png)
 
 ---
-
-## **📁 Project Structure**
-personal-web/
-├── index.html # Homepage
-├── about.html # About Me page
-├── countries.html # Travel stories
-├── home.css # Styles for index.html
-├── about.css # Styles for about.html
-├── countries.css # Styles for countries.html
-├── home.js # JavaScript for animations and effects
-├── /screenshots # Folder for screenshots
-
-To view the site online:  
-➡️ [https://mili4ka-39.github.io/personal-web](https://mili4ka-39.github.io/personal-web)
 
 To run it locally:
 
@@ -49,3 +35,5 @@ To run it locally:
 git clone https://github.com/mili4ka-39/personal-web.git
 cd personal-web
 open index.html
+
+---
