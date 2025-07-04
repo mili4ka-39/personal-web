@@ -16,7 +16,7 @@ The website includes:
 ---
 
 ### 🏠 Home Page  
-![Home Page]([https://ibb.co/qLN5rdH1](https://i.ibb.co/PscQ6N2C/home.png))
+![Home Page](https://i.ibb.co/PscQ6N2C/home.png)
 
 ### 👤 About Page  
 ![About Page](https://ibb.co/BVyQWbHc)
